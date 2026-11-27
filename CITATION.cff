@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use these programs, please cite them as below."
+type: software
+title: "Root selection by step-size continuation for discrete-gradient integrators of nonconvex gradient flows: programs of the numerical experiments"
+authors:
+  - family-names: Villatoro
+    given-names: Francisco R.
+    affiliation: "Universidad de Málaga"
+    orcid: "https://orcid.org/0000-0003-4314-6213"
+repository-code: "https://github.com/FrancisRVillatoro/discrete-gradient-root-selection"
+license: MIT
+keywords:
+  - discrete gradient methods
+  - average vector field method
+  - nonconvex gradient flows
+  - root selection
+  - homotopy continuation
+  - sublevel sets
+  - basins of attraction

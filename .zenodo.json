@@ -1,0 +1,24 @@
+{
+  "title": "Root selection by step-size continuation for discrete-gradient integrators of nonconvex gradient flows: programs of the numerical experiments",
+  "upload_type": "software",
+  "description": "<p>Python programs that generate every number, table and figure of the numerical experiments of the article <em>Root selection by step-size continuation for discrete-gradient integrators of nonconvex gradient flows</em> by Francisco R. Villatoro. They include the continuation algorithm for discrete-gradient steps, energy certificates for computed chords and paths, a verification of chord classifications in exact rational arithmetic with outward bounds at 48 decimal digits, an interval verification at 70 decimal digits for a coordinate sweep, and experiments with scalar and planar potential wells, log-sum-exp energies in dimensions 16 and 32, a discretized Allen-Cahn equation and time-refinement studies.</p><p>This work was supported by the Universidad de Málaga, Spain, through project PRO-B4-2026-011 of its Plan Propio de Investigación, Transferencia y Divulgación Científica.</p>",
+  "creators": [
+    {
+      "name": "Villatoro, Francisco R.",
+      "affiliation": "Universidad de Málaga",
+      "orcid": "0000-0003-4314-6213"
+    }
+  ],
+  "keywords": [
+    "discrete gradient methods",
+    "average vector field method",
+    "nonconvex gradient flows",
+    "root selection",
+    "homotopy continuation",
+    "sublevel sets",
+    "basins of attraction"
+  ],
+  "license": "mit",
+  "access_right": "open",
+  "language": "eng"
+}
